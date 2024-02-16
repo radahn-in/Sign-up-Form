@@ -1,0 +1,47 @@
+/* #card-container{
+    position: relative;
+    width: 100%;
+}
+
+.card-image {
+    position: absolute;
+    width: 100%;
+    z-index: -1;
+}
+
+.card-body {
+    height: 400px;
+    width: 300px;
+} */
+
+#container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.header{
+    font-size: 24px;
+    font-weight: bold;
+    background-color: #dcdcdc;
+    color: black;
+    padding: 20px;
+}
+
+#forum-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: white;
+    color: black;
+    padding: 24px;
+}
+
+
+
+
+
+
+
+
